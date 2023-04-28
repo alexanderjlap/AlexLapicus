@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexLapicus
+- 👋 Hi, I’m @AlexLap
 - 👀 I’m interested in computer science, data science, and cybersecurity!
 - 🌱 I’m currently learning java and other languages!
 - 💞️ I’m looking to collaborate on coding projects.
